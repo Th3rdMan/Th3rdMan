@@ -11,8 +11,6 @@
       <br/>
       <sub>3 février 2025</sub>
       <br/>
-      <sub>Th3rd</sub>
-      <br/>
       <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FkNPWHiR7R3Sd_EYtHXggDQ" target="_blank">Vérifier</a>
     </td>
     <td align="center">
@@ -22,9 +20,7 @@
       <br/>
       <strong>AOO2024-Finisher</strong>
       <br/>
-      <sub>2024</sub>
-      <br/>
-      <sub>Th3rd</sub>
+      <sub>1 janvier 2025</sub>
       <br/>
       <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FzoaGYlZ8T62GLR7HvUpC9A" target="_blank">Vérifier</a>
     </td>
@@ -35,9 +31,7 @@
       <br/>
       <strong>Oscar Zulu CTF - Disparue(s) - Finisher</strong>
       <br/>
-      <sub>19 déc. 2023</sub>
-      <br/>
-      <sub>Th3rd</sub>
+      <sub>19 décembre 2023</sub>
       <br/>
       <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FzxG_6TLrSIi1gVP0nk3YDQ" target="_blank">Vérifier</a>
     </td>

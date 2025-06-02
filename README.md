@@ -1,16 +1,20 @@
-## Hi there 👋
+## 🏅 Certifications
 
-<!--
-**Th3rdMan/Th3rdMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank">
+        <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="80" alt="GNOSINT2024-FINISHER"/>
+      </a>
+      <br/>
+      <strong>GNOSINT2024-FINISHER</strong>
+      <br/>
+      <sub>3 février 2025</sub>
+      <br/>
+      <sub>Th3rd</sub>
+      <br/>
+      <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FkNPWHiR7R3Sd_EYtHXggDQ" target="_blank">Vérifier</a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

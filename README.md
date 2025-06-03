@@ -1,4 +1,4 @@
-## 🏅 OSINT
+## 🏅 BADGES
 
 <table>
   <tr>

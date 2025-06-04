@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://i.ibb.co/KzygPTbq/image.png" alt="Th3rd - OSINT & CTF Enthusiast" width="80%" />
+<img src="https://i.ibb.co/KzygPTbq/image.png" alt="Th3rd - OSINT & CTF Enthusiast" width="80%" /><br>
 Passionné par l’OSINT, la résolution de challenges et le partage de connaissances.  
 Toujours prêt pour de nouveaux défis collectifs ou solo !
 

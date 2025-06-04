@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/xxxxxxx/banner.png" width="75%" alt="Banner">
-
 # Th3rd | OSINT & CTF Enthusiast
 
-![CTF Player](https://img.shields.io/badge/CTF-Player-blue?style=flat-square)
-![OSINT4Fun Finisher](https://img.shields.io/badge/OSINT4Fun-Finisher-brightgreen?style=flat-square)
-
-> “L’OSINT, c’est transformer l’invisible en visible.”
+> “Un problème sans solution est un problème mal posé.”
 
 </div>
 

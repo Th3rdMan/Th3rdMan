@@ -1,11 +1,5 @@
 <div align="center">
-
-<img src="https://i.ibb.co/KzygPTbq/image.png" alt="Th3rd - OSINT & CTF Enthusiast" width="80%" /><br>
-Passionné par l’OSINT, la résolution de challenges et le partage de connaissances.  
-Toujours prêt pour de nouveaux défis collectifs ou solo !
-
-*“Un problème sans solution est un problème mal posé.”*
-
+<img src="https://i.ibb.co/99F84445/image.png" alt="Th3rd - OSINT & CTF Enthusiast" width="80%" /><br>
 </div>
 
 ## 🔎 CTF participations

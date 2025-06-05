@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/99F84445/image.png" alt="Th3rd - OSINT & CTF Enthusiast" />
+  <a href="https://ibb.co/bgSWvvv9"><img src="https://i.ibb.co/5WNMjjjH/image.png" alt="image" border="0" /></a>
 </div>
 
 ## 🔎 CTF participations

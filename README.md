@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://ibb.co/bgSWvvv9"><img src="https://i.ibb.co/5WNMjjjH/image.png" alt="image" border="0" /></a>
-</div>
-
 ## 🔎 CTF participations
 
 | 📅 Dates              | 🏆 Événement                 | 👥 Équipe         | 🎯 Résultat                 | 🏢 Organisateur(s)                                |

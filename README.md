@@ -4,19 +4,19 @@
   <tr>
     <td align="center">
       <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="80" alt="GNOSINT2024-FINISHER"/>
+        <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="120" alt="GNOSINT2024-FINISHER"/>
       </a>
       <div><sub><strong>GNOSINT 2024</strong><br>3 fév. 2025</sub></div>
     </td>
     <td align="center">
       <a href="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="80" alt="AOO2024-Finisher"/>
+        <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="120" alt="AOO2024-Finisher"/>
       </a>
       <div><sub><strong>Advent of OSINT 2024</strong><br>1 jan. 2025</sub></div>
     </td>
     <td align="center">
       <a href="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="80" alt="Oscar Zulu CTF - Disparue(s) - Finisher"/>
+        <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="120" alt="Oscar Zulu CTF - Disparue(s) - Finisher"/>
       </a>
       <div><sub><strong>Disparue(s)</strong><br>19 déc. 2023</sub></div>
     </td>

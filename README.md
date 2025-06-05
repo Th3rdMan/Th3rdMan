@@ -1,3 +1,11 @@
+## 🏅 Badges CTF
+
+| ![GNOSINT 2024](https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image) | ![Advent of OSINT 2024](https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image) | ![Disparue(s)](https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image) |
+|:---:|:---:|:---:|
+| **[GNOSINT 2024](https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ)**<br><sub>3 fév. 2025</sub> | **[Advent of OSINT 2024](https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A)**<br><sub>1 jan. 2025</sub> | **[Disparue(s)](https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ)**<br><sub>19 déc. 2023</sub> |
+
+---
+
 ## 🔎 CTF participations
 
 | 📅 Dates              | 🏆 Événement                 | 👥 Équipe         | 🎯 Résultat                 | 🏢 Organisateur(s)                                |
@@ -12,34 +20,3 @@
 | 01/12/24 au 24/12/24 | **Advent of OSINT**         | Solo              | **Finisher** *(39e)*   | [OSINT4Fun](https://www.osint4fun.eu/)            |
 | 04/11/23 au 13/12/23 | **Disparue(s)**             | Heroes 4 Hire     | **Finisher**           | [Oscar Zulu](https://oscarzulu.org/)              |
 | 12/05/23 au 04/06/23 | **404 CTF 2023**            | Solo              | **2 809 pts** *(446e)* | [DGSE](https://www.dgse.gouv.fr/fr)<br>Télécom SudParis |
-
----
-
-## 🏅 Badges CTF
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="160" alt="GNOSINT2024-FINISHER"/>
-      </a>
-      <div><strong>GNOSINT 2024</strong><br>3 fév. 2025</div>
-    </td>
-    <td align="center">
-      <a href="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="160" alt="AOO2024-Finisher"/>
-      </a>
-      <div><strong>Advent of OSINT 2024</strong><br>1 jan. 2025</div>
-    </td>
-    <td align="center">
-      <a href="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="160" alt="Oscar Zulu CTF - Disparue(s) - Finisher"/>
-      </a>
-      <div><strong>Disparue(s)</strong><br>19 déc. 2023</div>
-    </td>
-  </tr>
-</table>
-
-</div>

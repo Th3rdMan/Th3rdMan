@@ -27,9 +27,9 @@
 
 ## 🔎 CTF participations
 
-| 📅 Dates              | 🏆 Événement                 | 👥 Équipe         | 🎯 Résultat                 | 🏢 Organisateur(s)                                |
+| 📅 Dates              | 🏁 Événement                 | 👥 Équipe         | 🎯 Résultat                 | 🏢 Organisateur(s)                                |
 |:---------------------|:----------------------------|:------------------|:----------------------------|:--------------------------------------------------|
-| 29/05/25 au 01/06/25 | **HUNT V5**                 | KigHaHack         | **Finisher** *(13e)*   | [AEGE](https://www.aege.fr/)                      |
+| 29/05/25 au 01/06/25 | **HUNT V5**                 | KigHaHack         | **Finisher** *(13e/63)*   | [AEGE](https://www.aege.fr/)                      |
 | 16/05/25 au 25/05/25 | **MEDILEAK 2**              | Heroes 4 Hire     | **845 pts**            | [Oscar Zulu](https://oscarzulu.org/)<br>Limoges Métropole |
 | 10/05/25 au 01/06/25 | **404 CTF 2025**            | Solo              | **1 500 pts** *(541e)* | [DGSE](https://www.dgse.gouv.fr/fr)<br>Télécom SudParis |
 | 08/05/25 au 11/05/25 | **Bleuet de France V4**     | Heroes 4 Hire     | **Finisher**           | [AEGE](https://www.aege.fr/)                      |

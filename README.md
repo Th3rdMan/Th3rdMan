@@ -29,7 +29,7 @@
 
 | 📅 Dates              | 🏁 Événement                 | 👥 Équipe         | 🎯 Résultat                 | 🏢 Organisateur(s)                                |
 |:---------------------|:----------------------------|:------------------|:----------------------------|:--------------------------------------------------|
-| 29/05/25 au 01/06/25 | **HUNT V5 - Finale**                 | KigHaHack         | **8e**/10   | [AEGE](https://www.aege.fr/)                      |
+| 28/08/25             | **HUNT V5 - Finale**                 | KigHaHack         | **8e**/10   | [AEGE](https://www.aege.fr/)                      |
 | 20/06/25 au 30/06/25 | **SHUTLOCK CTF 2025**       | *Solo*      |   | [DGSI](https://www.dgsi.interieur.gouv.fr/decouvrir-dgsi/nos-missions/cyberdefense/ctf-shutlock-revient-en-juin-2025)<br>[EPITA](https://www.epita.fr/2025/06/19/lever-de-rideau-sur-le-ctf-shutlock-2025)             |
 | 29/05/25 au 01/06/25 | **HUNT V5**                 | KigHaHack         | **13e**/63 *(Qualifié)*   | [AEGE](https://www.aege.fr/)                      |
 | 16/05/25 au 25/05/25 | **MEDILEAK 2**              | Heroes 4 Hire     | **845 pts**            | [Oscar Zulu](https://oscarzulu.org/)<br>[Limoges Métropole](https://www.limoges-metropole.fr/informations-transversales/actualites/rencontres-professionnelles-de-la-cybersecurite-de-limoges-metropole-le-3-juin-132275) |

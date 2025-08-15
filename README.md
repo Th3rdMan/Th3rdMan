@@ -3,6 +3,12 @@
 <table>
   <tr>
     <td align="center">
+  <a href="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q" target="_blank" rel="noopener">
+    <img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image" width="120" alt="GARENNE2025-FINISHER"/>
+  </a>
+  <div><sub><strong>GARENNE 2025</strong><br>15 aout 2025</sub></div>
+</td>
+    <td align="center">
       <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank">
         <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="120" alt="GNOSINT2024-FINISHER"/>
       </a>

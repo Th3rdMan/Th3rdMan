@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Th3rd Logo.png" alt="Logo" width="500"/>
+</p>
+
 ## 🏅 Badges CTF
 
 <table>

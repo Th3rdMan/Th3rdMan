@@ -2,6 +2,8 @@
   <img src="./Th3rd Logo.png" alt="Logo" width="500"/>
 </p>
 
+---
+
 ## 🏅 Badges CTF
 
 <table>
@@ -41,7 +43,7 @@
 |:---------------------|:----------------------------|:------------------|:----------------------------|:--------------------------------------------------|
 | 28/08/25             | 🕵️ **HUNT V5 - Finale**                 | KigHaHack         | **8**/10   | [AEGE](https://www.aege.fr/)                      |
 | 20/06/25 au 30/06/25 | 🎬 **SHUTLOCK CTF 2025**       | *Solo*      | **70**/294 | [DGSI](https://www.dgsi.interieur.gouv.fr/decouvrir-dgsi/nos-missions/cyberdefense/ctf-shutlock-revient-en-juin-2025)<br>[EPITA](https://www.epita.fr/2025/06/19/lever-de-rideau-sur-le-ctf-shutlock-2025)             |
-| 29/05/25 au 01/06/25 | 🕵️ **HUNT V5**                 | KigHaHack         | **13**/63   | [AEGE](https://www.aege.fr/)                      |
+| 29/05/25 au 01/06/25 | 🕵️ **HUNT V5 - Qualifications**                 | KigHaHack         | **13**/63   | [AEGE](https://www.aege.fr/)                      |
 | 16/05/25 au 25/05/25 | 💊 **MEDILEAK 2**              | Heroes 4 Hire     | **845 pts**            | [Oscar Zulu](https://oscarzulu.org/)<br>[Limoges Métropole](https://www.limoges-metropole.fr/informations-transversales/actualites/rencontres-professionnelles-de-la-cybersecurite-de-limoges-metropole-le-3-juin-132275) |
 | 10/05/25 au 01/06/25 | ​🚀​ **404 CTF 2025**            | *Solo*              | **541**/3.110 | [DGSE](https://www.dgse.gouv.fr/fr/la-dgse/nos-actualites/404-ctf-2025-le-grand-retour)<br>[Télécom SudParis](https://www.telecom-sudparis.eu/evenement/challenge-cybersecurite-404-ctf) |
 | 08/05/25 au 11/05/25 | ​🪖​ **[Bleuet de France V4](https://www.aege.fr/news/retour-sur-le-ctf-bleuet-de-france-v4-8633)**     | Heroes 4 Hire     | **Finisher**           | [AEGE](https://www.aege.fr/agenda/ctf-bleuet-de-france-v4-788)                      |

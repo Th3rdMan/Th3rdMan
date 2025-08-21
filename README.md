@@ -51,3 +51,13 @@
 | 14/11/24 au 17/11/24 | ​🛰️​ **Objectif Eagle**          | Heroes 4 Hire     | **2 175 pts**          | [DGA - Campus OSINT](https://www.defense.gouv.fr/dga/actualites/inauguration-du-campus-osint-delegue-general-larmement)
 | 04/11/23 au 13/12/23 | 🗺️ **[Disparue(s)](https://oscarzulu.org/write-up-ctf-osint-disparues/)**             | Noblesse Oblige     | **Finisher**           | [Oscar Zulu](https://oscarzulu.org/)              |
 | 12/05/23 au 04/06/23 | 📖​​ **404 CTF 2023**            | *Solo*              | **446**/2.343 | [DGSE](https://www.dgse.gouv.fr/fr/la-dgse/nos-actualites/retour-sur-le-challenge-cyber-404ctf#:~:text=Du%2012%20mai%20au%204,%C3%A9dition%20du%20challenge%20404%20CTF.&text=Apr%C3%A8s%20une%20premi%C3%A8re%20%C3%A9dition%20qui,de%2080%20%C3%A9preuves%20de%20cybers%C3%A9curit%C3%A9.)<br>[Télécom SudParis](https://www.telecom-sudparis.eu/actualite/404-ctf-devient-le-plus-grand-challenge-cyber-de-france) |
+
+---
+
+## 🌐 Profils OSINT
+
+  <a href="https://ozint.eu/ozinter/17991/" target="_blank">
+    <img src="https://ozint.eu/assets/images/brand/o.png" width="50" alt="Ozint.eu"/>
+  </a><a href="https://www.osint4fun.eu/user/4220b5be23fdb3d0/" target="_blank">
+    <img src="https://www.osint4fun.eu/favicon.ico" width="50" alt="OSINT4Fun"/>
+  </a>

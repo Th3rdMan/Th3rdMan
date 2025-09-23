@@ -41,6 +41,7 @@
 
 | 📅 Dates              | 🏁 Événement                 | 👥 Équipe         | 🎯 Résultat                 | 🏢 Organisateur(s)                                |
 |:---------------------|:----------------------------|:------------------|:----------------------------|:--------------------------------------------------|
+| 19/09/25 au 23/09/25 | 👁️​ **#BIG2025**                 | Heroes 4 Hire         | **61**/181   | [BPI](https://www.bpifrance.fr/)                      |
 | 28/08/25             | 🕵️ **[HUNT V5 - Finale](https://www.aege.fr/news/retour-sur-la-hunt-2025-8659)**                 | KigHaHack         | **8**/10   | [AEGE](https://www.aege.fr/)                      |
 | 20/06/25 au 30/06/25 | 🎬 **[SHUTLOCK CTF 2025](https://www.dgsi.interieur.gouv.fr/decouvrir-dgsi/nos-missions/cyberdefense/relevez-defi-cyber-du-premier-ctf-de-dgsi)**       | *Solo*      | **70**/922 | [DGSI](https://www.dgsi.interieur.gouv.fr/decouvrir-dgsi/nos-missions/cyberdefense/ctf-shutlock-revient-en-juin-2025)<br>[EPITA](https://www.epita.fr/2025/06/19/lever-de-rideau-sur-le-ctf-shutlock-2025)             |
 | 29/05/25 au 01/06/25 | 🕵️ **[HUNT V5 - Qualifications](https://www.aege.fr/global/gene/link.php?news_link=2025230819_1909846820_hunt-wu-qualifications.pdf&fg=1)**                 | KigHaHack         | **13**/63   | [AEGE](https://www.aege.fr/)                      |

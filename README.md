@@ -9,6 +9,12 @@
 <table>
   <tr>
     <td align="center">
+  <a href="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug" target="_blank" rel="noopener">
+    <img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image" width="120" alt="Badge-FINISHER"/>
+  </a>
+  <div><sub><strong>Mission vérité</strong><br>8 octobre 2025</sub></div>
+</td>
+    <td align="center">
   <a href="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q" target="_blank" rel="noopener">
     <img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image" width="120" alt="GARENNE2025-FINISHER"/>
   </a>

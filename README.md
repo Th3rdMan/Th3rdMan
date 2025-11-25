@@ -65,7 +65,8 @@
 ## 🌐 Profils OSINT
 
   <a href="https://ozint.eu/ozinter/17991/" target="_blank">
-    <img src="https://ozint.eu/assets/images/brand/o.png" width="50" alt="Ozint.eu"/>
-  </a><a href="https://www.osint4fun.eu/user/4220b5be23fdb3d0/" target="_blank">
-    <img src="https://www.osint4fun.eu/favicon.ico" width="50" alt="OSINT4Fun"/>
-  </a>
+    <img src="https://ozint.eu/assets/images/brand/o.png" width="50" alt="Ozint.eu"/></a> - 
+  <a href="https://www.osint4fun.eu/user/4220b5be23fdb3d0/" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1772191314206916608/lCMDiCyS_400x400.jpg" width="50" alt="OSINT4Fun"/></a> - 
+  <a href="https://osint.oscarzulu.org/users/61" target="_blank">
+    <img src="https://i.ibb.co/27znZkZn/1759738590816.png" width="50" alt="OSCAR ZULU"/></a>

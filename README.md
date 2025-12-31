@@ -17,7 +17,7 @@
          alt="GNOSINT2025-FINISHER" />
   </div>
 </a>
-<div><sub><strong>GNOSINT 2024</strong><br>29 dec. 2025</sub></div>
+<div><sub><strong>GNOSINT 2025</strong><br>29 dec. 2025</sub></div>
 </td>
 
 <td align="center" valign="top">

@@ -7,38 +7,75 @@
 ## 🏅 Badges CTF
 
 <table>
-  <tr>
-    <td align="center">
-  <a href="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug" target="_blank" rel="noopener">
-    <img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image" width="120" alt="Badge-FINISHER"/>
-  </a>
-  <div><sub><strong>Mission vérité</strong><br>8 octobre 2025</sub></div>
+<tr>
+
+<td align="center" valign="top">
+<a href="https://www.badgeforge.eu/verify/514901021505bd231a3caa33a370f806773cb23bc7c332c06b0fa10819d37b44" target="_blank" rel="noopener">
+  <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://www.badgeforge.eu/badges/d7bbabb0105688e87636ebd86e05054ebdbebb00c1ea3097542cc5faf2ad6dc1.jpg"
+         style="width:92px;height:108px;object-fit:contain;display:block;"
+         alt="GNOSINT2025-FINISHER" />
+  </div>
+</a>
+<div><sub><strong>GNOSINT 2024</strong><br>29 dec. 2025</sub></div>
 </td>
-    <td align="center">
-  <a href="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q" target="_blank" rel="noopener">
-    <img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image" width="120" alt="GARENNE2025-FINISHER"/>
-  </a>
-  <div><sub><strong>GARENNE 2025</strong><br>15 aout 2025</sub></div>
+
+<td align="center" valign="top">
+<a href="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug" target="_blank" rel="noopener">
+  <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image"
+         style="width:108px;height:108px;object-fit:contain;display:block;"
+         alt="Mission vérité" />
+  </div>
+</a>
+<div><sub><strong>Mission vérité</strong><br>8 oct. 2025</sub></div>
 </td>
-    <td align="center">
-      <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="120" alt="GNOSINT2024-FINISHER"/>
-      </a>
-      <div><sub><strong>GNOSINT 2024</strong><br>3 fév. 2025</sub></div>
-    </td>
-    <td align="center">
-      <a href="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="120" alt="AOO2024-Finisher"/>
-      </a>
-      <div><sub><strong>Advent of OSINT 2024</strong><br>1 jan. 2025</sub></div>
-    </td>
-    <td align="center">
-      <a href="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ" target="_blank">
-        <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="120" alt="Oscar Zulu CTF - Disparue(s) - Finisher"/>
-      </a>
-      <div><sub><strong>Disparue(s)</strong><br>19 déc. 2023</sub></div>
-    </td>
-  </tr>
+
+<td align="center" valign="top">
+<a href="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q" target="_blank" rel="noopener">
+  <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image"
+         style="width:108px;height:108px;object-fit:contain;display:block;"
+         alt="GARENNE 2025" />
+  </div>
+</a>
+<div><sub><strong>GARENNE 2025</strong><br>15 août 2025</sub></div>
+</td>
+
+<td align="center" valign="top">
+<a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank" rel="noopener">
+  <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image"
+         style="width:108px;height:108px;object-fit:contain;display:block;"
+         alt="GNOSINT 2024" />
+  </div>
+</a>
+<div><sub><strong>GNOSINT 2024</strong><br>3 fév. 2025</sub></div>
+</td>
+
+<td align="center" valign="top">
+<a href="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A" target="_blank" rel="noopener">
+  <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image"
+         style="width:116px;height:116px;object-fit:contain;display:block;"
+         alt="Advent of OSINT 2024" />
+  </div>
+</a>
+<div><sub><strong>Advent of OSINT 2024</strong><br>1 jan. 2025</sub></div>
+</td>
+
+<td align="center" valign="top">
+<a href="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ" target="_blank" rel="noopener">
+  <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image"
+         style="width:110px;height:110px;object-fit:contain;display:block;"
+         alt="Disparue(s)" />
+  </div>
+</a>
+<div><sub><strong>Disparue(s)</strong><br>19 déc. 2023</sub></div>
+</td>
+
+</tr>
 </table>
 
 ---

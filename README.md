@@ -6,59 +6,75 @@
 
 ## 🏅 Badges CTF
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
 
-<td width="16.66%" valign="top" align="center" style="padding:12px 8px;border:1px solid #ddd;">
-  <a href="https://www.badgeforge.eu/verify/514901021505bd231a3caa33a370f806773cb23bc7c332c06b0fa10819d37b44" target="_blank" rel="noopener">
-    <img src="https://i.ibb.co/B2vPNygh/Gnosint-2025.png" width="100" height="100" style="object-fit:contain;display:block;">
+<td align="center" style="padding:12px;border:1px solid #ddd;">
+  <a href="https://www.badgeforge.eu/verify/38b03a768841ccba01c74134d4b82f5f3b969643cac6a5b3204aeb6362bb9946" target="_blank" rel="noopener">
+    <img src="https://www.badgeforge.eu/badges/7b9c5be0b2518a2b9e62ce657101710f1f4e98e5b83d6117cb79ee795c093215.jpg"
+         width="100" height="100" style="display:block;object-fit:contain;">
   </a>
-  <div style="margin-top:8px; text-align:center; word-break:break-word; overflow-wrap:anywhere;">
-    <strong>GNOSINT 2025</strong><br>29 dec. 2025
+  <div style="margin-top:6px;">
+    <strong>Practical Basics</strong><br>6 jan. 2026
   </div>
 </td>
 
-<td width="16.66%" valign="top" align="center" style="padding:12px 8px;border:1px solid #ddd;">
-  <a href="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug" target="_blank" rel="noopener">
-    <img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image" width="100" height="100" style="object-fit:contain;display:block;">
+<td align="center" style="padding:12px;border:1px solid #ddd;">
+  <a href="https://www.badgeforge.eu/verify/514901021505bd231a3caa33a370f806773cb23bc7c332c06b0fa10819d37b44" target="_blank" rel="noopener">
+    <img src="https://i.ibb.co/B2vPNygh/Gnosint-2025.png"
+         width="100" height="100" style="display:block;object-fit:contain;">
   </a>
-  <div style="margin-top:8px; text-align:center; word-break:break-word; overflow-wrap:anywhere;">
+  <div style="margin-top:6px;">
+    <strong>GNOSINT 2025</strong><br>29 déc. 2025
+  </div>
+</td>
+
+<td align="center" style="padding:12px;border:1px solid #ddd;">
+  <a href="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug" target="_blank" rel="noopener">
+    <img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image"
+         width="100" height="100" style="display:block;object-fit:contain;">
+  </a>
+  <div style="margin-top:6px;">
     <strong>Mission vérité</strong><br>8 oct. 2025
   </div>
 </td>
 
-<td width="16.66%" valign="top" align="center" style="padding:12px 8px;border:1px solid #ddd;">
+<td align="center" style="padding:12px;border:1px solid #ddd;">
   <a href="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q" target="_blank" rel="noopener">
-    <img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image" width="100" height="100" style="object-fit:contain;display:block;">
+    <img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image"
+         width="100" height="100" style="display:block;object-fit:contain;">
   </a>
-  <div style="margin-top:8px; text-align:center; word-break:break-word; overflow-wrap:anywhere;">
+  <div style="margin-top:6px;">
     <strong>GARENNE 2025</strong><br>15 août 2025
   </div>
 </td>
 
-<td width="16.66%" valign="top" align="center" style="padding:12px 8px;border:1px solid #ddd;">
+<td align="center" style="padding:12px;border:1px solid #ddd;">
   <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank" rel="noopener">
-    <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="100" height="100" style="object-fit:contain;display:block;">
+    <img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image"
+         width="100" height="100" style="display:block;object-fit:contain;">
   </a>
-  <div style="margin-top:8px; text-align:center; word-break:break-word; overflow-wrap:anywhere;">
+  <div style="margin-top:6px;">
     <strong>GNOSINT 2024</strong><br>3 fév. 2025
   </div>
 </td>
 
-<td width="16.66%" valign="top" align="center" style="padding:12px 8px;border:1px solid #ddd;">
+<td align="center" style="padding:12px;border:1px solid #ddd;">
   <a href="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A" target="_blank" rel="noopener">
-    <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="100" height="100" style="object-fit:contain;display:block;">
+    <img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image"
+         width="100" height="100" style="display:block;object-fit:contain;">
   </a>
-  <div style="margin-top:8px; text-align:center; word-break:break-word; overflow-wrap:anywhere;">
-    <strong>Advent of OSINT 2024</strong><br>1 jan. 2025
+  <div style="margin-top:6px;">
+    <strong>Advent of OSINT<br>2024</strong><br>1 jan. 2025
   </div>
 </td>
 
-<td width="16.66%" valign="top" align="center" style="padding:12px 8px;border:1px solid #ddd;">
+<td align="center" style="padding:12px;border:1px solid #ddd;">
   <a href="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ" target="_blank" rel="noopener">
-    <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="100" height="100" style="object-fit:contain;display:block;">
+    <img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image"
+         width="100" height="100" style="display:block;object-fit:contain;">
   </a>
-  <div style="margin-top:8px; text-align:center; word-break:break-word; overflow-wrap:anywhere;">
+  <div style="margin-top:6px;">
     <strong>Disparue(s)</strong><br>19 déc. 2023
   </div>
 </td>

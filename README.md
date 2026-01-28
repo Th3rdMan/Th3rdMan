@@ -108,6 +108,8 @@
   <a href="https://www.osint4fun.eu/user/4220b5be23fdb3d0/" target="_blank">
     <img src="https://pbs.twimg.com/profile_images/1772191314206916608/lCMDiCyS_400x400.jpg" width="50" alt="OSINT4Fun"/></a> - 
   <a href="https://osint.oscarzulu.org/users/61" target="_blank">
-    <img src="https://i.ibb.co/27znZkZn/1759738590816.png" width="50" alt="OSCAR ZULU"/></a> - 
+    <img src="https://i.ibb.co/27znZkZn/1759738590816.png" width="50" alt="Oscar Zulu"/></a> - 
   <a href="https://isfred.fr/users/973" target="_blank">
-    <img src="https://isfred.fr/files/6e75e293aec44b5786b50bcdf314c83d/main_page.png" width="50" alt="OSCAR ZULU"/></a>
+    <img src="https://isfred.fr/files/6e75e293aec44b5786b50bcdf314c83d/main_page.png" width="50" alt="Is Fred"/></a> -
+  <a href="https://tryhackme.com/p/Th3rD" target="_blank">
+    <img src="https://tryhackme.com/favicon-96x96.png" width="50" alt="Try Hack Me"/></a>

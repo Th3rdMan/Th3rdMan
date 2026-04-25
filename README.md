@@ -110,4 +110,6 @@
   <a href="https://isfred.fr/users/973" target="_blank">
     <img src="https://i.ibb.co/VYqRYFV2/main-page-1.png" width="50" alt="Is Fred"/></a> -
   <a href="https://tryhackme.com/p/Th3rD" target="_blank">
-    <img src="https://tryhackme.com/favicon-96x96.png" width="50" alt="Try Hack Me"/></a>
+    <img src="https://tryhackme.com/favicon-96x96.png" width="50" alt="Try Hack Me"/></a> -
+  <a href="https://ctf.challenge-osint.fr/user?id=1dbafaee-5bfe-4d83-acce-c6a5e29b15ae" target="_blank">
+    <img src="https://osintfr.com/wp-content/uploads/2025/01/cropped-qzfdddqdf-192x192.png" width="50" alt="OSINT-FR"/></a>

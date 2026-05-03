@@ -4,10 +4,20 @@
 
 ---
 
-## 🏅 Badges CTF
+## 🏅 Badges
 
 <table width="100%" style="border-collapse:collapse;">
 <tr>
+
+<td align="center" style="padding:12px;border:1px solid #ddd;">
+  <a href="https://permis-osint.fr/verifier/OZ-2026-9Y4CVQ" target="_blank" rel="noopener">
+    <img src="https://permis-osint.fr/openbadge/assertion/OZ-2026-9Y4CVQ.png"
+         width="100" height="100" style="display:block;object-fit:contain;">
+  </a>
+  <div style="margin-top:6px;">
+    <strong>Permis d'Osinter</strong><br>3 mai 2026
+  </div>
+</td>
 
 <td align="center" style="padding:12px;border:1px solid #ddd;">
   <a href="https://www.badgeforge.eu/verify/38b03a768841ccba01c74134d4b82f5f3b969643cac6a5b3204aeb6362bb9946" target="_blank" rel="noopener">

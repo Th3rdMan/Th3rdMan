@@ -30,7 +30,7 @@
 
 <td align="center" width="130" valign="top">
 <a href="https://www.badgeforge.eu/verify/38b03a768841ccba01c74134d4b82f5f3b969643cac6a5b3204aeb6362bb9946" target="_blank" rel="noopener">
-<img src="https://www.badgeforge.eu/badges/7b9c5be0b2518a2b9e62ce657101710f1f4e98e5b83d6117cb79ee795c093215.jpg" width="100" height="100" alt="Practical Basics">
+<img src="https://i.ibb.co/S7RRwnwH/image-removebg-preview-3.png" width="100" height="100" alt="Practical Basics">
 </a>
 <br>
 <strong>Practical Basics</strong>

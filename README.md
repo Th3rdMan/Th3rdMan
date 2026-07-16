@@ -9,6 +9,16 @@
 <table>
 <tr>
 <td align="center" width="130" valign="top">
+<a href="https://www.badgeforge.eu/verify/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026" target="_blank" rel="noopener">
+<img src="https://www.badgeforge.eu/api/assertions/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026/image" width="100" height="100" alt="CTF Tacosint - L'appel de la forêt - Badge survivor">
+</a>
+<br>
+<strong>CTF Tacosint<br>Badge survivor</strong>
+<br>
+16 juil. 2026
+</td>
+
+<td align="center" width="130" valign="top">
 <a href="https://permis-osint.fr/verifier/OZ-2026-9Y4CVQ" target="_blank" rel="noopener">
 <img src="https://permis-osint.fr/openbadge/assertion/OZ-2026-9Y4CVQ.png" width="100" height="100" alt="Permis d'Osinter">
 </a>

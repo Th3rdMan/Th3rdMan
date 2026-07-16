@@ -13,7 +13,7 @@
 <img src="https://www.badgeforge.eu/api/assertions/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026/image" width="100" height="100" alt="Tacosint - Survivor">
 </a>
 <br>
-<strong>CTF Tacosint<br>Badge survivor</strong>
+<strong>Tacosint<br>Survivor</strong>
 <br>
 16 juil. 2026
 </td>

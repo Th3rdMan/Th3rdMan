@@ -40,7 +40,7 @@
 
 <td align="center" width="130" valign="top">
 <a href="https://www.badgeforge.eu/verify/514901021505bd231a3caa33a370f806773cb23bc7c332c06b0fa10819d37b44" target="_blank" rel="noopener">
-<img src="https://i.ibb.co/B2vPNygh/Gnosint-2025.png" width="100" height="100" alt="GNOSINT 2025">
+<img src="https://i.ibb.co/7N12fDCB/image-removebg-preview-4.png" width="100" height="100" alt="GNOSINT 2025">
 </a>
 <br>
 <strong>GNOSINT 2025</strong>

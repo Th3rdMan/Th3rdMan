@@ -10,7 +10,7 @@
 <tr>
 <td align="center" width="130" valign="top">
 <a href="https://www.badgeforge.eu/verify/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026" target="_blank" rel="noopener">
-<img src="https://www.badgeforge.eu/api/assertions/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026/image" width="100" height="100" alt="CTF Tacosint - L'appel de la forêt - Badge survivor">
+<img src="https://www.badgeforge.eu/api/assertions/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026/image" width="100" height="100" alt="Tacosint - Survivor">
 </a>
 <br>
 <strong>CTF Tacosint<br>Badge survivor</strong>
@@ -106,9 +106,9 @@
 
 | 📅 Dates | 🏁 Événement | 👥 Équipe | 🏆 Classement | 🎯 Score | 🏢 Organisateur(s) |
 |:---------|:------------|:---------|:-------------|:--------|:------------------|
-| 03/07/26 au 12/07/26 | 🌲 **[L'appel de la forêt](https://www.linkedin.com/company/tacosint/posts/?feedView=all)** | Heroes 4 Hire | **34e** | 3 140 pts | [Tacosint](https://www.linkedin.com/company/tacosint/) |
+| 03/07/26 au 12/07/26 | 🌲 **[L'appel de la forêt](https://www.linkedin.com/company/tacosint/posts/?feedView=all)** | Heroes 4 Hire | **34**/153 | 3 140 pts | [Tacosint](https://www.linkedin.com/company/tacosint/) |
 | 02/06/26 au 09/06/26 | 🐫 **[Le Caire nid d'espions](https://www.linkedin.com/posts/ctf-osint-eeie-share-7464958825947734016-gprH/)** | *Solo* | **41**/546 | 300 pts | [Skopein](https://skopein.fr/apropos)<br>[EEIE - École Européenne d'Intelligence Économique](https://www.eeie.fr/) |
-| 05/06/26 au 15/06/26 | 🔥 **[L'Enfer Numérique](https://www.linkedin.com/posts/eternalblue-ctf-team_gendarmerienationale-rgpaca-eternalblue-activity-7460958172078571520-zNn5)** | Heroes 4 Hire | [**17e**/170](https://www.linkedin.com/posts/eternalblue-ctf-team_cte-rgpaca-gendarmerienationale-activity-7472567507812438016-0-Aa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA75LW0BrtoM1r0bnzKn8qSX0_gHjsUVPr0) | 6 560 pts | [EternalBlue CTF Team](https://www.linkedin.com/company/eternalblue-ctf-team/)<br>[Gendarmerie Nationale](https://www.gendarmerie.interieur.gouv.fr/)<br>[RGPACA](https://www.linkedin.com/company/rgpaca/) |
+| 05/06/26 au 15/06/26 | 🔥 **[L'Enfer Numérique](https://www.linkedin.com/posts/eternalblue-ctf-team_gendarmerienationale-rgpaca-eternalblue-activity-7460958172078571520-zNn5)** | Heroes 4 Hire | [**17**/170](https://www.linkedin.com/posts/eternalblue-ctf-team_cte-rgpaca-gendarmerienationale-activity-7472567507812438016-0-Aa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA75LW0BrtoM1r0bnzKn8qSX0_gHjsUVPr0) | 6 560 pts | [EternalBlue CTF Team](https://www.linkedin.com/company/eternalblue-ctf-team/)<br>[Gendarmerie Nationale](https://www.gendarmerie.interieur.gouv.fr/)<br>[RGPACA](https://www.linkedin.com/company/rgpaca/) |
 | 22/05/26 au 31/05/26 | 💊 **[MEDILEAK 3](https://www.limoges-metropole.fr/informations-transversales/nos-evenements/3e-edition-de-capture-the-flag-medileak-3998)** | Heroes 4 Hire | — | 719/1 331 | [Oscar Zulu](https://oscarzulu.org/)<br>[Limoges Métropole](https://www.limoges-metropole.fr/informations-transversales/nos-evenements/3e-edition-de-capture-the-flag-medileak-3998) |
 | 16/05/26 au 07/06/26 | 🚀 **404 CTF 2026** | *Solo* | **254**/2 012 | — | [DGSE](https://www.linkedin.com/posts/aezvaeynement-404ctf2026-dgse-share-7460316645018783744-zRux/)<br>[Télécom SudParis](https://www.telecom-sudparis.eu/evenement/challenge-cybersecurite-404-ctf/) |
 | 08/05/26 au 15/05/26 | 🪻 **[Bleuet de France V5](https://github.com/Th3rdMan/write-ups-ctf/tree/main/Bleuet%202026)** | Heroes 4 Hire | — | 805/1 365 | [AEGE](https://www.aege.fr/agenda/ctf-bleuet-de-france-v5-855) |

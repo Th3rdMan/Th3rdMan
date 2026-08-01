@@ -17,7 +17,7 @@
 ## 🧠 Compétences
 
 - 🔍 Renseignement en sources ouvertes (OSINT)
-- 🗺️ Géolocalisation & analyse d'image
+- 🗺️ Géolocalisation & analyse d'images
 - 🕵️ Recherche et retrouvailles de personnes
 - 📱 Analyse de réseaux sociaux
 - 🧩 Résolution d'enquêtes, en solo comme en équipe

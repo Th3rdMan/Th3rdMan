@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-18-blue?style=flat-square" alt="18 CTF disputés"/>
   <img src="https://img.shields.io/badge/depuis-2023-lightgrey?style=flat-square" alt="Depuis 2023"/>
-  <img src="https://img.shields.io/badge/meilleure%20finale-8e%2F10%20(HUNT%20V5)-success?style=flat-square" alt="Meilleure finale : 8e/10 à HUNT V5"/>
+  <img src="https://img.shields.io/badge/meilleur%20r%C3%A9sultat-8e%2F10%20(HUNT%20V5)-success?style=flat-square" alt="Meilleur résultat : 8e/10 en finale (HUNT V5)"/>
 </p>
 
 ---

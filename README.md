@@ -28,94 +28,58 @@
 
 <table>
 <tr>
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://www.badgeforge.eu/verify/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026" target="_blank" rel="noopener">
-<img src="https://www.badgeforge.eu/api/assertions/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026/image" width="100" height="100" alt="Tacosint - Survivor">
+<img src="https://www.badgeforge.eu/api/assertions/3d4911f8297a81bad3c9c047a249dbcacd04358366267a7f9fda6cdc54c99026/image" width="90" height="90" alt="Tacosint - Survivor">
 </a>
-<br>
-<strong>Tacosint<br>Survivor</strong>
-<br>
-16 juil. 2026
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://permis-osint.fr/verifier/OZ-2026-9Y4CVQ" target="_blank" rel="noopener">
-<img src="https://permis-osint.fr/openbadge/assertion/OZ-2026-9Y4CVQ.png" width="100" height="100" alt="Permis d'Osinter">
+<img src="https://permis-osint.fr/openbadge/assertion/OZ-2026-9Y4CVQ.png" width="90" height="90" alt="Permis d'Osinter">
 </a>
-<br>
-<strong>Permis d'Osinter</strong>
-<br>
-3 mai 2026
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://www.badgeforge.eu/verify/38b03a768841ccba01c74134d4b82f5f3b969643cac6a5b3204aeb6362bb9946" target="_blank" rel="noopener">
-<img src="https://i.ibb.co/S7RRwnwH/image-removebg-preview-3.png" width="100" height="100" alt="Practical Basics">
+<img src="https://i.ibb.co/S7RRwnwH/image-removebg-preview-3.png" width="90" height="90" alt="Practical Basics">
 </a>
-<br>
-<strong>Practical Basics</strong>
-<br>
-6 jan. 2026
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://www.badgeforge.eu/verify/514901021505bd231a3caa33a370f806773cb23bc7c332c06b0fa10819d37b44" target="_blank" rel="noopener">
-<img src="https://i.ibb.co/7N12fDCB/image-removebg-preview-4.png" width="100" height="100" alt="GNOSINT 2025">
+<img src="https://i.ibb.co/7N12fDCB/image-removebg-preview-4.png" width="90" height="90" alt="GNOSINT 2025">
 </a>
-<br>
-<strong>GNOSINT 2025</strong>
-<br>
-29 déc. 2025
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug" target="_blank" rel="noopener">
-<img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image" width="100" height="100" alt="Mission vérité">
+<img src="https://eu.badgr.com/public/assertions/CZsgqv-BTTWUSePGhvX_Ug/image" width="90" height="90" alt="Mission vérité">
 </a>
-<br>
-<strong>Mission vérité</strong>
-<br>
-8 oct. 2025
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q" target="_blank" rel="noopener">
-<img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image" width="100" height="100" alt="GARENNE 2025">
+<img src="https://api.eu.badgr.io/public/assertions/ISd5coKOTFSFMTlLvEsh2Q/image" width="90" height="90" alt="GARENNE 2025">
 </a>
-<br>
-<strong>GARENNE 2025</strong>
-<br>
-15 août 2025
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ" target="_blank" rel="noopener">
-<img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="100" height="100" alt="GNOSINT 2024">
+<img src="https://api.eu.badgr.io/public/assertions/kNPWHiR7R3Sd_EYtHXggDQ/image" width="90" height="90" alt="GNOSINT 2024">
 </a>
-<br>
-<strong>GNOSINT 2024</strong>
-<br>
-3 fév. 2025
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A" target="_blank" rel="noopener">
-<img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="100" height="100" alt="Advent of OSINT 2024">
+<img src="https://api.eu.badgr.io/public/assertions/zoaGYlZ8T62GLR7HvUpC9A/image" width="90" height="90" alt="Advent of OSINT 2024">
 </a>
-<br>
-<strong>Advent of OSINT<br>2024</strong>
-<br>
-1 jan. 2025
 </td>
 
-<td align="center" width="130" valign="top">
+<td align="center" width="110" valign="top">
 <a href="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ" target="_blank" rel="noopener">
-<img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="100" height="100" alt="Disparue(s)">
+<img src="https://api.eu.badgr.io/public/assertions/zxG_6TLrSIi1gVP0nk3YDQ/image" width="90" height="90" alt="Disparue(s)">
 </a>
-<br>
-<strong>Disparue(s)</strong>
-<br>
-19 déc. 2023
 </td>
 </tr>
 </table>

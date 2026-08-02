@@ -2,6 +2,26 @@
   <img src="./Th3rd Logo.png" alt="Logo" width="500"/>
 </p>
 
+<p align="center">
+  🕵️‍♂️ OSINTeur passionné — je participe à des CTF de renseignement en sources ouvertes (recherche de personnes, géolocalisation, analyse d'images et de réseaux sociaux), en solo et en équipe, depuis 2023.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-18-blue?style=flat-square" alt="18 CTF disputés"/>
+  <img src="https://img.shields.io/badge/depuis-2023-lightgrey?style=flat-square" alt="Depuis 2023"/>
+  <img src="https://img.shields.io/badge/meilleur%20classement-top%2010%25-success?style=flat-square" alt="Meilleur classement top 10%"/>
+</p>
+
+---
+
+## 🧠 Compétences
+
+- 🔍 Renseignement en sources ouvertes (OSINT)
+- 🗺️ Géolocalisation & analyse d'images
+- 🕵️ Recherche et retrouvailles de personnes
+- 📱 Analyse de réseaux sociaux
+- 🧩 Résolution d'enquêtes, en solo comme en équipe
+
 ---
 
 ## 🏅 Badges
@@ -104,6 +124,13 @@
 
 ## 🔎 CTF participations
 
+- 🎯 **18 CTF OSINT** disputés depuis 2023 — 5 en solo, 13 en équipe
+- 🏆 Top 10% obtenu à plusieurs reprises (17ᵉ/170, 41ᵉ/546, 70ᵉ/922)
+- 🏢 Organisateurs rencontrés : DGSE, DGSI, Gendarmerie Nationale, AEGE, Oscar Zulu, BPI France, Tacosint...
+
+<details>
+<summary>📋 Voir le détail des 18 participations</summary>
+
 | 📅 Dates | 🏁 Événement | 👥 Équipe | 🏆 Classement | 🎯 Score | 🏢 Organisateur(s) |
 |:---------|:------------|:---------|:-------------|:--------|:------------------|
 | 03/07/26 au 12/07/26 | 🌲 **[L'appel de la forêt](https://www.linkedin.com/posts/tacosint_cest-un-clap-de-fin-pour-la-partie-comp%C3%A9titive-activity-7482738058237452288-lERe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA75LW0BrtoM1r0bnzKn8qSX0_gHjsUVPr0)** | Heroes 4 Hire | **34**/153 | 3 140 pts | [Tacosint](https://www.linkedin.com/company/tacosint/) |
@@ -124,6 +151,8 @@
 | 14/11/24 au 17/11/24 | 🛰️ **[Objectif Eagle](https://laplateforme.io/retour-dexperience-sur-le-ctf-osint-objectif-eagle/)** | Heroes 4 Hire | — | 2 175/2 525 | [DGA - Campus OSINT](https://www.defense.gouv.fr/dga/actualites/inauguration-du-campus-osint-delegue-general-larmement) |
 | 04/11/23 au 13/12/23 | 🗺️ **[Disparue(s)](https://oscarzulu.org/write-up-ctf-osint-disparues/)** | Noblesse Oblige | Finisher | — | [Oscar Zulu](https://oscarzulu.org/) |
 | 12/05/23 au 04/06/23 | 📖 **404 CTF 2023** | *Solo* | [**446**/2 852](https://i.ibb.co/ycr3CxJ8/1703012486139.jpg) | — | [DGSE](https://www.dgse.gouv.fr/fr/la-dgse/nos-actualites/retour-sur-le-challenge-cyber-404ctf#:~:text=Du%2012%20mai%20au%204,%C3%A9dition%20du%20challenge%20404%20CTF.&text=Apr%C3%A8s%20une%20premi%C3%A8re%20%C3%A9dition%20qui,de%2080%20%C3%A9preuves%20de%20cybers%C3%A9curit%C3%A9.)<br>[Télécom SudParis](https://www.telecom-sudparis.eu/actualite/404-ctf-devient-le-plus-grand-challenge-cyber-de-france) |
+
+</details>
 
 ---
 

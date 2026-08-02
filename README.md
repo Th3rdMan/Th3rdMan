@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-18-blue?style=flat-square" alt="18 CTF disputés"/>
   <img src="https://img.shields.io/badge/depuis-2023-lightgrey?style=flat-square" alt="Depuis 2023"/>
-  <img src="https://img.shields.io/badge/meilleur%20classement-top%2010%25-success?style=flat-square" alt="Meilleur classement top 10%"/>
+  <img src="https://img.shields.io/badge/meilleure%20finale-8e%2F10%20(HUNT%20V5)-success?style=flat-square" alt="Meilleure finale : 8e/10 à HUNT V5"/>
 </p>
 
 ---
@@ -125,7 +125,8 @@
 ## 🔎 CTF participations
 
 - 🎯 **18 CTF OSINT** disputés depuis 2023 — 5 en solo, 13 en équipe
-- 🏆 Top 10% obtenu à plusieurs reprises (17ᵉ/170, 41ᵉ/546, 70ᵉ/922)
+- 🏆 Meilleur résultat : **8ᵉ/10 en finale** du HUNT V5 (compétition en deux étapes : qualifications puis finale)
+- 📈 Top 10% obtenu à plusieurs reprises sur des CTF plus larges (17ᵉ/170, 41ᵉ/546, 70ᵉ/922)
 - 🏢 Organisateurs rencontrés : DGSE, DGSI, Gendarmerie Nationale, AEGE, Oscar Zulu, BPI France, Tacosint...
 
 <details>

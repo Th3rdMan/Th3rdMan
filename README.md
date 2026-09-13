@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-18-blue?style=flat-square" alt="18 CTF disputés"/>
+  <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-19-blue?style=flat-square" alt="19 CTF disputés"/>
   <img src="https://img.shields.io/badge/Depuis-2023-lightgrey?style=flat-square" alt="Depuis 2023"/>
   <img src="https://img.shields.io/badge/Meilleur%20r%C3%A9sultat-8e%20(Finale%20The%20HUNT%20V5)-success?style=flat-square" alt="Meilleur résultat : 8e (Finale The HUNT V5)"/>
 </p>
@@ -88,16 +88,17 @@
 
 ## 🔎 CTF participations
 
-- 🎯 **18 CTF OSINT** disputés depuis 2023 — 5 en solo, 13 en équipe
+- 🎯 **19 CTF OSINT** disputés depuis 2023 — 5 en solo, 14 en équipe
 - 🏆 Meilleur résultat : **8ᵉ/10 en finale** du HUNT V5 (compétition en deux étapes : qualifications puis finale)
 - 📈 Top 10% obtenu à plusieurs reprises sur des CTF plus larges (17ᵉ/170, 41ᵉ/546, 70ᵉ/922)
 - 🏢 Organisateurs rencontrés : DGSE, DGSI, Gendarmerie Nationale, AEGE, Oscar Zulu, BPI France, Tacosint...
 
 <details>
-<summary>📋 Voir le détail des 18 participations</summary>
+<summary>📋 Voir le détail des 19 participations</summary>
 
 | 📅 Dates | 🏁 Événement | 👥 Équipe | 🏆 Classement | 🎯 Score | 🏢 Organisateur(s) |
 |:---------|:------------|:---------|:-------------|:--------|:------------------|
+| 10/09/26 au 13/09/26 | 🌑 **[Deep Threats](https://deepthreats.fr/)** | Heroes 4 Hire | **55**/360 | 2 081 pts | — |
 | 03/07/26 au 12/07/26 | 🌲 **[L'appel de la forêt](https://www.linkedin.com/posts/tacosint_cest-un-clap-de-fin-pour-la-partie-comp%C3%A9titive-activity-7482738058237452288-lERe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA75LW0BrtoM1r0bnzKn8qSX0_gHjsUVPr0)** | Heroes 4 Hire | **34**/153 | 3 140 pts | [Tacosint](https://www.linkedin.com/company/tacosint/) |
 | 02/06/26 au 09/06/26 | 🐫 **[Le Caire nid d'espions](https://www.linkedin.com/posts/ctf-osint-eeie-share-7464958825947734016-gprH/)** | *Solo* | **41**/546 | 300 pts | [Skopein](https://skopein.fr/apropos)<br>[EEIE - École Européenne d'Intelligence Économique](https://www.eeie.fr/) |
 | 05/06/26 au 15/06/26 | 🔥 **[L'Enfer Numérique](https://www.linkedin.com/posts/eternalblue-ctf-team_gendarmerienationale-rgpaca-eternalblue-activity-7460958172078571520-zNn5)** | Heroes 4 Hire | [**17**/170](https://www.linkedin.com/posts/eternalblue-ctf-team_cte-rgpaca-gendarmerienationale-activity-7472567507812438016-0-Aa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA75LW0BrtoM1r0bnzKn8qSX0_gHjsUVPr0) | 6 560 pts | [EternalBlue CTF Team](https://www.linkedin.com/company/eternalblue-ctf-team/)<br>[Gendarmerie Nationale](https://www.gendarmerie.interieur.gouv.fr/)<br>[RGPACA](https://www.linkedin.com/company/rgpaca/) |

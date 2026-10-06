@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-19-blue?style=flat-square" alt="19 CTF disputés"/>
+  <img src="https://img.shields.io/badge/CTF%20disput%C3%A9s-20-blue?style=flat-square" alt="20 CTF disputés"/>
   <img src="https://img.shields.io/badge/Depuis-2023-lightgrey?style=flat-square" alt="Depuis 2023"/>
   <img src="https://img.shields.io/badge/Meilleur%20r%C3%A9sultat-8e%20(Finale%20The%20HUNT%20V5)-success?style=flat-square" alt="Meilleur résultat : 8e (Finale The HUNT V5)"/>
 </p>
@@ -88,16 +88,17 @@
 
 ## 🔎 CTF participations
 
-- 🎯 **19 CTF OSINT** disputés depuis 2023 — 5 en solo, 14 en équipe
+- 🎯 **20 CTF OSINT** disputés depuis 2023 — 5 en solo, 15 en équipe
 - 🏆 Meilleur résultat : **8ᵉ/10 en finale** du HUNT V5 (compétition en deux étapes : qualifications puis finale)
 - 📈 Top 10% obtenu à plusieurs reprises sur des CTF plus larges (17ᵉ/170, 41ᵉ/546, 70ᵉ/922)
 - 🏢 Organisateurs rencontrés : DGSE, DGSI, Gendarmerie Nationale, AEGE, Oscar Zulu, BPI France, Tacosint...
 
 <details>
-<summary>📋 Voir le détail des 19 participations</summary>
+<summary>📋 Voir le détail des 20 participations</summary>
 
 | 📅 Dates | 🏁 Événement | 👥 Équipe | 🏆 Classement | 🎯 Score | 🏢 Organisateur(s) |
 |:---------|:------------|:---------|:-------------|:--------|:------------------|
+| 02/10/26 au 08/10/26 | 💸 **[Opération Culot](https://ctf-bpifrance.io/)** | Heroes 4 Hire | **39** | 1 900/1 900 | [BPI France](https://www.bpifrance.fr/)<br>[Les Blaireaux des Légendes](https://www.linkedin.com/company/bdl-osint/)<br>[Hack'Olyte](https://hackolyte.fr/) |
 | 10/09/26 au 13/09/26 | 🌑 **[Deep Threats](https://deepthreats.fr/)** | Heroes 4 Hire | **55**/360 | 2 081 pts | [DGA - Campus OSINT](https://www.defense.gouv.fr/dga/actualites/inauguration-du-campus-osint-delegue-general-larmement)<br>[Ministère des Armées](https://www.defense.gouv.fr/) |
 | 03/07/26 au 12/07/26 | 🌲 **[L'appel de la forêt](https://www.linkedin.com/posts/tacosint_cest-un-clap-de-fin-pour-la-partie-comp%C3%A9titive-activity-7482738058237452288-lERe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA75LW0BrtoM1r0bnzKn8qSX0_gHjsUVPr0)** | Heroes 4 Hire | **34**/202 | 3 140 pts | [Tacosint](https://www.linkedin.com/company/tacosint/) |
 | 02/06/26 au 09/06/26 | 🐫 **[Le Caire nid d'espions](https://www.linkedin.com/posts/ctf-osint-eeie-share-7464958825947734016-gprH/)** | *Solo* | **41**/546 | 300 pts | [Skopein](https://skopein.fr/apropos)<br>[EEIE - École Européenne d'Intelligence Économique](https://www.eeie.fr/) |
